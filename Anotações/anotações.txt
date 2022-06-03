@@ -1,0 +1,2 @@
+link substituído na head do código 
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
